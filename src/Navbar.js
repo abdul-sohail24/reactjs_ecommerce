@@ -37,7 +37,7 @@ const Navigationbar = () => {
 											<img src={logo} alt="" />
 										</NavLink>
 									</ul> */}
-									<ul className="navbar-nav mr-auto mb-2 mb-lg-0 nav_tabs">
+									<ul className="navbar-nav mb-2 mb-lg-0 nav_tabs">
 										<li className="nav-item">
 											<NavLink
 												className="nav-link active nav_links"
@@ -75,7 +75,9 @@ const Navigationbar = () => {
 											</NavLink>
 										</li>
 									</ul>
-									<div className="nav_button">Hello</div>
+									<div className="navbar-nav ms-auto">
+										<button className="btnn button">Get early access</button>
+									</div>
 								</div>
 							</div>
 						</nav>

@@ -13,3 +13,13 @@
 	margin-left: 5px;
 	padding: 0px 20px;
 }
+
+.btnn {
+	border: 1px solid black;
+	background: none;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family: "Comic-Sans";
+	cursor: pointer;
+	margin: 10px;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import happy from "../src/images/happy.svg";
 import "./home.css";
+import { FaVideo } from "react-icons/fa";
 
 function HomePage() {
 	return (
@@ -26,7 +27,8 @@ function HomePage() {
 											Get Started
 										</button>
 										<button className="btn second_button_field col-sm-6 col-md-4 col-lg-3">
-											Watch Video
+											<FaVideo />
+											<div>Watch Video</div>
 										</button>
 									</div>
 									<div className="row companies">
