@@ -28,7 +28,7 @@ function HomePage() {
 										</button>
 										<button className="btn second_button_field col-sm-6 col-md-4 col-lg-3">
 											<FaVideo />
-											<div>Watch Video</div>
+											<div className="">Watch Video</div>
 										</button>
 									</div>
 									<div className="row companies">
@@ -39,7 +39,7 @@ function HomePage() {
 											<h5>Google</h5>
 										</div>
 										<div className="col-md-3 col-xs-6">
-											<h5>Google</h5>
+											<h5>Amazon</h5>
 										</div>
 										<div className="col-md-3 col-xs-6">
 											<h5>Google</h5>
