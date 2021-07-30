@@ -1,0 +1,39 @@
+.textarea {
+	padding: 100px 50px;
+}
+
+.main-text {
+	font-size: 48px;
+	font-family: "Times New Roman", Times, serif;
+	line-height: normal;
+}
+
+.sub-text {
+	font-size: 20px;
+}
+
+.button_space {
+	margin-top: 20px;
+}
+
+.btn {
+	border: 1px solid black;
+	background: none;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family: "Comic-Sans";
+	cursor: pointer;
+	margin: 10px;
+}
+
+/* For 1st button only */
+.button_field {
+	background-color: blue;
+	color: white;
+}
+
+.button_field:hover {
+	color: white;
+	background-color: black;
+	transition: ease-in-out;
+}
