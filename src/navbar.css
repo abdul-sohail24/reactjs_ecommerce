@@ -2,3 +2,14 @@
 	background-color: #fff !important;
 	font-size: 20px;
 }
+
+.nav_tabs {
+	margin-left: 20px;
+	padding: 10px 30px;
+	justify-content: space-between;
+}
+
+.nav_links {
+	margin-left: 5px;
+	padding: 0px 20px;
+}

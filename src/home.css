@@ -4,13 +4,18 @@
 }
 
 .textarea {
-	padding: 100px 50px;
+	padding: 50px 50px;
 }
 
 /* Image styling */
 @media screen and (min-width: 768px) {
 	.imagearea {
-		padding: 100px 50px;
+		padding: 50px 50px;
+	}
+
+	.companies {
+		margin-top: 100px;
+		padding: 25px auto;
 	}
 }
 
