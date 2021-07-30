@@ -1,2 +1,2 @@
-# socialcomment
-Design for SocialComment
+# SocialComment
+A responsive single page E-Commerce website made using Reactjs, CSS, HTML and Frameworks like React-Fonts and Bootstrap
