@@ -11,7 +11,7 @@ function HomePage() {
 						<div className="col-12 mx-auto">
 							{/* Text Area */}
 							<div class="row">
-								<div className="col-md-6 sm-12 order-sm-0 order-lg-0 textarea">
+								<div className="col-md-7 sm-12 order-sm-0 order-lg-0 textarea">
 									<div className="main-text">
 										Don't worry. <br /> We are here for <br /> every solution.
 									</div>
@@ -31,7 +31,7 @@ function HomePage() {
 								</div>
 
 								{/* Image Area */}
-								<div className="col-md-6 sm-12 order-sm-1 order-lg-1">
+								<div className="col-md-5 sm-12 order-sm-1 order-lg-1 imagearea">
 									<img src={happy} className="img-fluid" alt="" />
 								</div>
 							</div>
