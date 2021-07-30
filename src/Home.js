@@ -1,6 +1,6 @@
 import React from "react";
 import happy from "../src/images/happy.svg";
-import "./home.css";
+import "./css/home.css";
 import { FaVideo } from "react-icons/fa";
 
 function HomePage() {
