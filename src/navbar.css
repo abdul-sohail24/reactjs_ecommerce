@@ -1,6 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
 .navbar {
 	background-color: #fff !important;
 	font-size: 20px;
+	font-family: "Roboto";
+	font-weight: 600;
 }
 
 .nav_tabs {
@@ -15,11 +19,21 @@
 }
 
 .btnn {
-	border: 1px solid black;
+	border: 2px solid blue;
 	background: none;
 	padding: 10px 20px;
 	font-size: 20px;
 	font-family: "Comic-Sans";
 	cursor: pointer;
 	margin: 10px;
+	border-radius: 50px;
+	color: rgb(0, 0, 0);
+	width: fit-content;
+}
+
+/* Media Queires */
+@media screen and (max-width: 768px) {
+	.navbar {
+		line-height: 50px;
+	}
 }
