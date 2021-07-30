@@ -1,3 +1,8 @@
+.body {
+	overflow: hidden;
+	scroll-behavior: smooth;
+}
+
 .textarea {
 	padding: 100px 50px;
 }
